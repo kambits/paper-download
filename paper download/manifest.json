@@ -1,7 +1,7 @@
 {   
 "name": "paper download",   
 "description": "Download paper from google scholar.",   
-"version": "1.0",   
+"version": "1.1",   
 "permissions": ["contextMenus", "tabs", "http://*/", "https://*/", "downloads"],   
 "homepage_url": "https://github.com/kambit/paper-download",
 "background": {   
